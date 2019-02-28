@@ -7,7 +7,7 @@
 	<title>Lego cynefin</title>
 
 	<link rel="stylesheet" href="css/reveal.css">
-	<link rel="stylesheet" href="css/theme/black.css">
+	<link rel="stylesheet" href="css/theme/sky.css">
 
 	<!-- Theme used for syntax highlighting of code -->
 	<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -30,6 +30,42 @@
                  data-separator-notes="^Note:"
                  data-charset="utf-8">
         </section>
+		<section data-markdown="contents/lego_obvious.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+		<section data-markdown="contents/lego_complicated.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+		<section data-markdown="contents/lego_complex.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+		<section data-markdown="contents/lego_chaos.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+		<section data-markdown="contents/cynefin_framework.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+		<section data-markdown="contents/cynefin_vs_agile.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^----------"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
 	  </div>
 	</div>
 
@@ -41,6 +77,11 @@
 	  // - https://github.com/hakimel/reveal.js#configuration
 	  // - https://github.com/hakimel/reveal.js#dependencies
 	  Reveal.initialize({
+		  controls: true,
+		  progress: true,
+		  history: true,
+		  center: true,
+		  transition: 'slide',
 		  dependencies: [
 			  { src: 'plugin/markdown/marked.js' },
 			  { src: 'plugin/markdown/markdown.js' },
