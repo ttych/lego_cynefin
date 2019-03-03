@@ -4,7 +4,11 @@
 
 ## Challenge
 
-> In team, sort a stack of lego per color as soon as possible.
+> Sort the bricks into colours, as quickly as possible.
+
+> Create one heap for all special pieces.
+
+> Decide in your team which pieces you want to treat as special.
 
 ----------
 
@@ -16,24 +20,17 @@
 
 ----------
 
-### Complexity
+### Preparation
 
-- How was the complexity of the exercise ? <!-- .element: class="fragment" -->
-- Were you competent ? <!-- .element: class="fragment" -->
-- Have you feel blocked ? <!-- .element: class="fragment" -->
-- What did you feel ? <!-- .element: class="fragment" -->
+- How much time did you need for planning ? <!-- .element: class="fragment" -->
 
 ----------
 
-### Decision-making & Communication
+### Communication && Decision
 
-- How long did you spend to prepare ? <!-- .element: class="fragment" -->
-- How many leaders ? How many followers ? <!-- .element: class="fragment" -->
-- How was the communication ? <!-- .element: class="fragment" -->
-- What was the communication mode ? <!-- .element: class="fragment" -->
-  - someone had the solution and every one agreed ? <!-- .element: class="fragment" -->
-  - during the game ? <!-- .element: class="fragment" -->
-  - Orgnizationnal vs Operationnal aspects ? <!-- .element: class="fragment" -->
+- How was the communication (before / during) ? <!-- .element: class="fragment" -->
+- How many leaders/followers were in your team ?  <!-- .element: class="fragment" -->
+- How did you agree on what to do ? <!-- .element: class="fragment" -->
 
 ----------
 
@@ -42,6 +39,16 @@
 - Compare the result between each team ? <!-- .element: class="fragment" -->
 - Was the result pretictible ? <!-- .element: class="fragment" -->
 - Will you redo the exercise the same way ? <!-- .element: class="fragment" -->
+
+----------
+
+### So
+
+- Same way to proceed.  <!-- .element: class="fragment" -->
+- One person proposed "the" way of solving the problem and the others just followed. <!-- .element: class="fragment" -->
+- Not much peer-to-peer communication during the exercise (not about the how, more about operative). <!-- .element: class="fragment" -->
+- Same result.  <!-- .element: class="fragment" -->
+- Common Best Practice. <!-- .element: class="fragment" -->
 
 ----------
 
