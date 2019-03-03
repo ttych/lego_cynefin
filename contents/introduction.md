@@ -12,11 +12,18 @@
 * created in 1999 at the [IBM Global Services](https://en.wikipedia.org/wiki/IBM_Global_Services)
 * by [Dave Snowden](https://en.wikipedia.org/wiki/Dave_Snowden)
 * pronounce : /ˈkʌnɪvɪn/ KUN-iv-in
-* from the Welsh (habitat)
 * a "[sense-making](https://en.wikipedia.org/wiki/Sensemaking) device"
 
-
 source: wikipedia
+
+----------
+
+* is a Welsh word, commonly translated into English as **habitat** or **place**
+* but the actual translation is :
+
+> **the place of your multiple belongings**
+
+source: [Dave Snowden on Youtube](https://www.youtube.com/watch?v=N7oz366X0-8)
 
 ----------
 
@@ -28,7 +35,7 @@ source: wikipedia
 
 1. Lego game to discover ...
   * by group of 4 to 6
-  * 4 games
+  * 4 games to explores 4 domains
      * 10 minutes (MAX)
 	 * \+ 1 minutes of debriefing per group
 	 * \+ 5 minutes of debriefing together
