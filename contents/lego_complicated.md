@@ -4,10 +4,10 @@
 
 ## Challenge
 
-> Construct a structure as soon as possible with the following contraints :
-> - at least 20 blocks high
-> - a regular color pattern
-> - each new level should not have more blocks than the previous
+> Build a structure, as quickly as possible, with the following contraints :
+> - At least 20 blocks high
+> - Regular color pattern
+> - Each new level should not have more blocks than the previous
 
 ----------
 
@@ -19,25 +19,24 @@
 
 ----------
 
-
 ### Complexity
 
-- How was the exercise compare to the previous one ? <!-- .element: class="fragment" -->
-- What was different ? <!-- .element: class="fragment" -->
-- Where you competent ? <!-- .element: class="fragment" -->
-- Have you feel blocked ? <!-- .element: class="fragment" -->
-- What did you feel ? <!-- .element: class="fragment" -->
+- What felt different compared to the simple problem ? <!-- .element: class="fragment" -->
 
 ----------
 
-### Decision-making & Communication
+### Preparation
 
-- How long did you spend to prepare ? <!-- .element: class="fragment" -->
-- How many leaders ? How many followers ? <!-- .element: class="fragment" -->
-- How was the communication ? <!-- .element: class="fragment" -->
-- What was the communication mode ? <!-- .element: class="fragment" -->
-  - Each one has a solution and communicate it <!-- .element: class="fragment" -->
-  - Analysis paralysis ? facilitator role ? <!-- .element: class="fragment" -->
+- How much time did you need for planning ? <!-- .element: class="fragment" -->
+
+----------
+
+### Communication && Decision
+
+- How was the communication (before / during) ? <!-- .element: class="fragment" -->
+- How many leaders/followers were in your team ?  <!-- .element: class="fragment" -->
+- How did you agree on what to do ? <!-- .element: class="fragment" -->
+- Have you been blocked ? <!-- .element: class="fragment" -->
 
 ----------
 
@@ -46,6 +45,16 @@
 - Compare the result between each team ? <!-- .element: class="fragment" -->
 - Was the result pretictible ? <!-- .element: class="fragment" -->
 - Will you redo the exercise the same way ? <!-- .element: class="fragment" -->
+
+----------
+
+### So
+
+- Different practice per team. <!-- .element: class="fragment" -->
+- Producing different results. <!-- .element: class="fragment" -->
+- Many Good Practices. <!-- .element: class="fragment" -->
+- Everyone tried to propose a possible solution. (Expert Communication pattern) <!-- .element: class="fragment" -->
+- Analysis-paralysis situation, retrospect on the role of one member facilitating the group. <!-- .element: class="fragment" -->
 
 ----------
 
