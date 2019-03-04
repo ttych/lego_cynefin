@@ -2,12 +2,21 @@
 
 ----------
 
-## Challenge
+## Challenge (a)
 
 > Build a structure, as quickly as possible, with the following contraints :
 > - At least 20 blocks high
 > - Regular color pattern
-> - Each new level should not have more blocks than the previous
+> - Every new block that you add to the structure can't be bigger than the one below it
+
+----------
+
+## Challenge (b)
+
+> Build a structure, as quickly as possible, with the following contraints :
+> - At least 20 blocks high
+> - Regular color pattern
+> - Each new level should not have more bricks than the previous
 
 ----------
 
@@ -50,10 +59,11 @@
 
 ### So
 
-- Different practice per team. <!-- .element: class="fragment" -->
-- Producing different results. <!-- .element: class="fragment" -->
+- Different practice per team, producing different results. <!-- .element: class="fragment" -->
 - Many Good Practices. <!-- .element: class="fragment" -->
+- Need a bit of planning. <!-- .element: class="fragment" -->
 - Everyone tried to propose a possible solution. (Expert Communication pattern) <!-- .element: class="fragment" -->
+- Process is adapted according to feedback during the build. <!-- .element: class="fragment" -->
 - Analysis-paralysis situation, retrospect on the role of one member facilitating the group. <!-- .element: class="fragment" -->
 
 ----------

@@ -12,3 +12,9 @@
 ## Cynefin Lego Game
 
 - [by Agile42](https://www.agile42.com/en/training/cynefin-lego-game/)
+
+----------
+
+### Extras
+
+- [Safe-to-fail probes](http://cognitive-edge.com/methods/safe-to-fail-probes/)

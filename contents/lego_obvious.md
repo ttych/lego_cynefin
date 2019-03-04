@@ -44,11 +44,12 @@
 
 ### So
 
-- Same way to proceed.  <!-- .element: class="fragment" -->
+- Quick and easy solution. <!-- .element: class="fragment" -->
+- Same way to proceed. Same result. <!-- .element: class="fragment" -->
 - One person proposed "the" way of solving the problem and the others just followed. <!-- .element: class="fragment" -->
 - Not much peer-to-peer communication during the exercise (not about the how, more about operative). <!-- .element: class="fragment" -->
-- Same result.  <!-- .element: class="fragment" -->
 - Common Best Practice. <!-- .element: class="fragment" -->
+
 
 ----------
 
