@@ -23,7 +23,7 @@
 
 ### Complexity
 
-- What felt different compared to the simple/complicated problem ? <!-- .element: class="fragment" -->
+- What felt different compared to the obvious/complicated game ? <!-- .element: class="fragment" -->
 - What makes you feel comfortable ? <!-- .element: class="fragment" -->
 
 ----------
@@ -68,3 +68,7 @@
   - Sense <!-- .element: class="fragment" -->
   - Respond : Amplification or Dampening <!-- .element: class="fragment" -->
 - Emergent practices. <!-- .element: class="fragment" -->
+
+----------
+
+FIXME: add image !

@@ -37,7 +37,7 @@ source: [Dave Snowden on Youtube](https://www.youtube.com/watch?v=N7oz366X0-8)
   * by group of 4 to 6
   * 4 games to explores 4 domains
      * 10 minutes (MAX)
-	 * \+ 1 minutes of debriefing per group
-	 * \+ 5 minutes of debriefing together
-2. Review of Cynefin Framework
-3. Cynefin and "Agility"
+     * \+ 1 minutes of debriefing per group
+     * \+ 5 minutes of debriefing together
+2. Cynefin Framework
+3. Cynefin & Agility

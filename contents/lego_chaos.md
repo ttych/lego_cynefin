@@ -7,7 +7,7 @@
 > Decide in 30 seconds to build either a building or a factory.
 > Then build it, with the following constraints :
 > - Regular color pattern.
-> - Each colour of bricks MUST only be touched by one person.
+> - Each colour of bricks must only be touched by one person.
 > - You are not allowed to talk.
 > - At random time, 1 member will immediatly join a different team.
 
@@ -47,7 +47,7 @@
 ### Organization
 
 - How did it feel to loose a team member ? <!-- .element: class="fragment" -->
-- How to join another team ? <!-- .element: class="fragment" -->
+- How did it feel to join another team ? <!-- .element: class="fragment" -->
 - Why does this small change make such a big difference ? <!-- .element: class="fragment" -->
 
 ----------
@@ -55,7 +55,7 @@
 ### Outcome
 
 - Compare the result between each team ? <!-- .element: class="fragment" -->
-- How is the result ? Surpising, ... <!-- .element: class="fragment" -->
+- How is the result ? Surprising ? <!-- .element: class="fragment" -->
 - Compare the time spent with the previous exercise ?  <!-- .element: class="fragment" -->
 
 ----------
@@ -76,3 +76,7 @@
   - Sense - how it is going <!-- .element: class="fragment" -->
   - Respond <!-- .element: class="fragment" -->
 - Novel practices. <!-- .element: class="fragment" -->
+
+----------
+
+FIXME: add image !

@@ -3,24 +3,25 @@
 ----------
 
 It "explores the relationship between man, experience, and context"
-and proposes new approaches to communication, decision-making, policy-making,
-and knowledge management in complex social environments.
+and proposes new approaches to communication, decision-making
+and knowledge management in different environments.
 
 ----------
 
 ## 3 Systems and 5 Domains
 
+----------
+
 Based on how we perceive relation between cause en effect.
 
-- Ordered systems
-  - cause and effect relation exists, is repeatable and predictable.
-  - Obvious and Complicated domains.
-- Complex system (unordered)
-  - cause and effect relation exists, is unpredictable, with unknowns.
-  - Complex domain.
-- Chaotic system (unordered)
-  - cause and effect relation is underterminate, scope of the problem is undefined.
-  - Chaotic domain.
+1. *Ordered* systems
+  - *Obvious* and *Complicated* domains.
+2. *Complex* system (*unordered*)
+  - *Complex* domain.
+3. *Chaotic* system (*unordered*)
+  - *Chaotic* domain.
+
+.. and the disordered domain.
 
 ----------
 
@@ -83,7 +84,11 @@ Conduct 'safe fail' experiments instead of doing 'fail safe' design.
 
 ## Disorder domain
 
-This is the situation we are in most of the time – not knowing which situation we are in.
+----------
+
+This is the situation we are in most of the time ...
+
+... not knowing which situation we are in.
 
 If disorder persists we will end up in chaos.
 
@@ -93,43 +98,76 @@ If disorder persists we will end up in chaos.
 
 ----------
 
-### Reaction to Disorder
-
-The danger here lies in interpreting the situation through our personal preference for action.
-
-Obvious Bias : "The Bureaucrat"
-– Any failure is a failure of process.
-Complicated Bias : "The Expert"
-– Any problem is a failure to give enough time or resources to perform analysis.
-Complex Bias : "The Politician/Battlefield Commander"
-- When posed with a problem will get lots of people with different backgrounds and expertise in the same room and hope someone comes up with a solution.
-Chaotic Bias : "The Tyrant:
-– Any problem is a failure to act – take control, everyone has to do what they are told.
+FIXME: biais Chicken - Cow - Grass
 
 ----------
 
-### Communication
+### Reaction to Disorder
+
+Context :
+- Difficult to identify when in *disorder* situation.
+- A domain is not clearly dominant.
+
+Failure :
+- Rely on known and comfortable techniques.
+- Interpret situation through personal preferences.
+
+----------
+
+#### Obvious Bias : "The Bureaucrat"
+
+> Any failure is a failure of process.
+
+----------
+
+#### Complicated Bias : "The Expert"
+
+> Any problem is a failure to give enough time or resources to perform analysis.
+
+----------
+
+#### Complex Bias : "The Politician/Battlefield Commander"
+
+> When posed with a problem will get lots of people with different backgrounds and expertise in the same room and hope someone comes up with a solution.
+
+----------
+
+#### Chaotic Bias : "The Tyrant:
+
+> Any problem is a failure to act – take control, everyone has to do what they are told.
+
+----------
+
+## Communication & Leadership
+
+----------
 
 ![Communication](contents/images/cynefin_communication.png) <!-- .element height="50%" width="50%" -->
 
+FIXME: add what's wrong in each domain
+
 ----------
 
-### Transition
+## Transition
+
+----------
 
 ![transition](contents/images/cynefin_transition.png) <!-- .element height="95%" width="95%" -->
 
 ----------
 
-### Estimating Complexity
+## Estimating Complexity
+
+----------
 
 ![estimation](contents/images/cynefin_complex_estimation.jpg) <!-- .element height="80%" width="80%" -->
+
+5. Nobody done it.
+4. Someone already done it.
+3. Someone in the company done it.
+2. Someone in the team already done it.
+1. Everybody can do it.
 
 ----------
 
 ![summary](contents/images/cynefin_leader_summary.png) <!-- .element height="60%" width="60%" -->
-
-----------
-
-
-- change a flat tire
-- bicycle chain falling off

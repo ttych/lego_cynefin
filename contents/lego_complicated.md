@@ -30,7 +30,7 @@
 
 ### Complexity
 
-- What felt different compared to the simple problem ? <!-- .element: class="fragment" -->
+- What felt different compared to the previous game ? <!-- .element: class="fragment" -->
 
 ----------
 
@@ -63,8 +63,7 @@
 - Many Good Practices. <!-- .element: class="fragment" -->
 - Need a bit of planning. <!-- .element: class="fragment" -->
 - Everyone tried to propose a possible solution. (Expert Communication pattern) <!-- .element: class="fragment" -->
-- Process is adapted according to feedback during the build. <!-- .element: class="fragment" -->
-- Analysis-paralysis situation, retrospect on the role of one member facilitating the group. <!-- .element: class="fragment" -->
+- Analysis-paralysis and facilitating the group. <!-- .element: class="fragment" -->
 
 ----------
 
@@ -76,3 +75,7 @@
   - Analyse using expert / experience knowledge <!-- .element: class="fragment" -->
   - Respond <!-- .element: class="fragment" -->
 - Good practices as result of expert analysis / experience <!-- .element: class="fragment" -->
+
+----------
+
+FIXME: add image !

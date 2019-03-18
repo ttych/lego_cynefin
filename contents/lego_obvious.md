@@ -62,3 +62,7 @@
   - Categorize : find the right recipe <!-- .element: class="fragment" -->
   - Respond : decide what to do <!-- .element: class="fragment" -->
 - Follow best practices <!-- .element: class="fragment" -->
+
+----------
+
+FIXME: add image !
