@@ -14,7 +14,9 @@ FIXME: diagram
 
 A complex approach
 
-FIXME: scrum diagram
+----------
+
+![cynefin_framework](contents/images/scrum_flow.jpg) <!-- .element height="100%" width="100%" -->
 
 ----------
 
