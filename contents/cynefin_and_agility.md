@@ -6,7 +6,7 @@ Choosing the Best Project Management Approach.
 
 ----------
 
-FIXME: diagram
+![cynefin_and_agility](contents/images/cynefin_agile.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 

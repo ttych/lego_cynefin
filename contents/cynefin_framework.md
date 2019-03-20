@@ -25,60 +25,31 @@ Based on how we perceive relation between cause en effect.
 
 ----------
 
-![cynefin_framework](contents/images/cynefin_framework.jpg) <!-- .element height="80%" width="80%" -->
+![cynefin_framework](contents/images/cynefin_framework.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 
-### Obvious domain - "Known Knowns" - Best Practices
+### Obvious domain - Best Practices
 
-Cause and effect relationships exist, are predictable and repeatable.
-
-- Formal communication pattern
-- Management style is top-down / command-and-control
+![obvious_example](contents/images/obvious_example_recipe.jpg) <!-- .element height="45%" width="45%" -->
 
 ----------
 
-![obvious_example](contents/images/obvious_example_recipe.jpg) <!-- .element height="50%" width="50%" -->
+### Complicated domain - Good Practices
+
+![complicated_example](contents/images/complicated_example_turbo.jpg) <!-- .element height="85%" width="85%" -->
 
 ----------
 
-### Complicated domain - "Known Unknowns" - Good Practice
+### Complex domain - Emergent Practices
 
-Cause and effect relationships exist but are not self-evident and therefore require expertise.
-
-There are multiple ways to proceed, provided you have the right expertise.
-
-- Expert communication pattern
-
-----------
-
-![complicated_example](contents/images/complicated_example_turbo.jpg) <!-- .element height="95%" width="95%" -->
-
-----------
-
-### Complex domain - "Unknowable Unknowns" - Emergent Practice
-
-Cause and effect is only visible in hindsight, the outcomes are emergent and unpredictable.
-
-- Informal communication pattern
-
-----------
-
-![complex_example](contents/images/complex_example_traffic_jam.jpg) <!-- .element height="95%" width="95%" -->
+![complex_example](contents/images/complex_example_traffic_jam.jpg) <!-- .element height="100%" width="100%" -->
 
 ----------
 
 ### Chaotic domain - "Unknowable Unknowns" - Novel Practice
 
-No cause and effect relationship can be determined.
-
-Conduct 'safe fail' experiments instead of doing 'fail safe' design.
-
-- Crisis communication pattern
-
-----------
-
-![chaotic_example](contents/images/chaotic_example_house_fire.jpg) <!-- .element height="95%" width="95%" -->
+![chaotic_example](contents/images/chaotic_example_house_fire.jpg) <!-- .element height="80%" width="80%" -->
 
 ----------
 
@@ -94,11 +65,17 @@ If disorder persists we will end up in chaos.
 
 ----------
 
-![cynefin_framework](contents/images/cynefin_framework.jpg) <!-- .element height="80%" width="80%" -->
+![cynefin_framework](contents/images/cynefin_framework.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 
-FIXME: biais Chicken - Cow - Grass
+### Which of these go together ?
+
+![chicken_run](contents/images/chicken_cow_grass.png) <!-- .element height="85%" width="85%" -->
+
+----------
+
+![chicken_run](contents/images/chicken_cow_grass_result.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 
@@ -114,25 +91,25 @@ Failure :
 
 ----------
 
-#### Obvious Bias : "The Bureaucrat"
+#### Obvious Bias :  "The Bureaucrat"
 
 > Any failure is a failure of process.
 
 ----------
 
-#### Complicated Bias : "The Expert"
+#### Complicated Bias :  "The Expert"
 
 > Any problem is a failure to give enough time or resources to perform analysis.
 
 ----------
 
-#### Complex Bias : "The Politician/Battlefield Commander"
+#### Complex Bias :  "The Politician / Battlefield Commander"
 
 > When posed with a problem will get lots of people with different backgrounds and expertise in the same room and hope someone comes up with a solution.
 
 ----------
 
-#### Chaotic Bias : "The Tyrant:
+#### Chaotic Bias :  "The Tyrant"
 
 > Any problem is a failure to act – take control, everyone has to do what they are told.
 
@@ -142,9 +119,7 @@ Failure :
 
 ----------
 
-![Communication](contents/images/cynefin_communication.png) <!-- .element height="50%" width="50%" -->
-
-FIXME: add what's wrong in each domain
+![Communication](contents/images/cynefin_communication.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 
@@ -152,7 +127,7 @@ FIXME: add what's wrong in each domain
 
 ----------
 
-![transition](contents/images/cynefin_transition.png) <!-- .element height="95%" width="95%" -->
+![transition](contents/images/cynefin_transition.png) <!-- .element height="85%" width="85%" -->
 
 ----------
 
@@ -160,13 +135,17 @@ FIXME: add what's wrong in each domain
 
 ----------
 
-![estimation](contents/images/cynefin_complex_estimation.jpg) <!-- .element height="80%" width="80%" -->
+![estimation](contents/images/cynefin_estimation.png) <!-- .element height="85%" width="85%" -->
 
-5. Nobody done it.
-4. Someone already done it.
-3. Someone in the company done it.
-2. Someone in the team already done it.
+----------
+
+With :
+
 1. Everybody can do it.
+2. Someone in the team already done it.
+3. Someone in the company done it.
+4. Someone already done it.
+5. Nobody done it.
 
 ----------
 

@@ -71,4 +71,4 @@
 
 ----------
 
-FIXME: add image !
+![cynefin_framework](contents/images/cynefin_obvious_complicated_complex.png) <!-- .element height="85%" width="85%" -->
