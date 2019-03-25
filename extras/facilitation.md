@@ -1,149 +1,65 @@
+# Preparation
+
+- create team (choose a team name)
+- prepare 300 / 400 lego blocks per team
+
 # game 1
 
+## Measure
 - global execution time
 - communication mode
-  pas de communication sauf operationnel (je prends tel couleur, ...)
+    - how many participants
 - decision mode
-  1 personne propose et go
+    - 1 proposition and go
 
-## How much time did you need for planning ?
+## Expected
+- simple exercise with a clear solution
+- fast decision mode
+    - an obvious solution
+    - 1 leader only (the first who purpose it)
 
-=> 0
-
-# How was the communication (before / during) ?
-
-- Before => rien
-- During => operationnel
-
-# How many leaders/followers were in your team ?
-
-- 1 leader (n'importe qui aurait pu etre leader, le premier qui a parle)
-- et que des followers
-
-# How did you agree on what to do ?
-
-- evidence
-
-# Compare the result between each team ?
-
-- la meme chose partout
-
-# Was the result pretictible ?
-
-- oui
-
-# Will you redo the exercise the same way ?
-
-- oui
 
 # game 2
 
+## Measure
 - global execution time
-  - preparation time vs execution time
-- communication mode (expert)
-  bcp de propositions differentes
+    - preparation time vs. execution time (ratio ?)
+- communication mode (expert ?)
+    - many proposition (all valid)
 - decision mode
-  experts
-  analysis paralysis -> facilitateur
+    - experts
+    - analysis paralysis -> facilitator role
 
-## What felt different compared to the previous game ?
+## Expected
+- need some planification
+- everyone suggest a solution
+- a solution is chosen, then adapted during the build process
 
-- pas evident
-- plus de preparation
-
-# How much time did you need for planning ?
-
-- ressenti vs. mesure
-
-# How was the communication (before / during) ?
-
-Before :
-- experts
-
-During :
-- ajustements mineurs
-
-# How many leaders/followers were in your team ?
-
-differents types de leadership :
-- expert
-- facilitateur
-
-# How did you agree on what to do ?
-
-- facilitateur
-
-# Have you been blocked ?
-
-- analysis paralysis
-
-# Compare the result between each team ?
-
-- differents sauf si copie
-
-# Was the result pretictible ?
-
-- oui et non
-
-# Will you redo the exercise the same way ?
-
-- oui / non
 
 # Game 3
 
+## Measure
 - global execution time
 - communication mode
 - leader ?
 
-# What felt different compared to the obvious/complicated game ?
+## Expected
+- not better with more preparation time
+- the right process emerges, is adapted during the build phase
+- the sooner they start to build, the sooner they feel comfortable with
+- they feel more comfortable if there is a convergence on the appearance of the animal / vehicle
 
-- empecher les gens de parler
-- forcer a bouger / se reorganiser
-
-# What makes you feel comfortable ?
-
-- ca depend
-
-# Would it have made a difference if you had had five minutes to talk and plan before you started building ?
-
-=> non
-
-# How was the communication (before / during) ?
-
-# How many leaders/followers were in your team ?
-
-# What kind of feedback did you have to guide you towards a solution ?
-
-# Have you been blocked ?
 
 # Game 4
 
-# What felt different compared to the complex problem/situation ?
+## Measure
+- the initial item to build per table
+- global execution time
+- communication mode
+- leader ?
+- feeling / attitude (boared, not participating, waiting, building alone ...)
 
-# What makes you feel comfortable ?
-
-=> nothing
-
-# Would it have made a difference if you had had five minutes to talk and plan before you started building ?
-
-=> non
-
-# How was the communication (before / during) ?
-
-# How many leaders/followers were in your team ?
-
-# What kind of feedback did you have to guide you towards a solution ?
-
-# Have you been blocked ?
-
-# How did it feel to loose a team member ?
-
-# How did it feel to join another team ?
-
-# Why does this small change make such a big difference ?
-
-# Compare the result between each team ?
-
-# How is the result ? Surprising ?
-
-# Compare the time spent with the previous exercise ?
+## Expected
+- no outcome, bad outcome not respecting the criteria
+- feel not comfortable all the time
+- solution emerges really slowly
